@@ -1,2 +1,7 @@
-git init 
+git init
+git add 
+git commit -m "[write a message]"
+git status
+git log
+ 
 
